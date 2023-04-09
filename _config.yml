@@ -23,7 +23,7 @@ email: andrew1668@live.ca
 description: >- # this means to ignore newlines until "baseurl:"
   This website will be used as a resume or portfolio for future employers, with the goal of 
   showcasing some of the work I have completed through school and personal endeavours.
-baseurl: "/main" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "9991andrew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  9991andrew
