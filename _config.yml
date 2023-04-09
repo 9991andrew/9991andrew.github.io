@@ -30,6 +30,7 @@ github_username:  9991andrew
 
 # Build settings
 theme: minima
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
